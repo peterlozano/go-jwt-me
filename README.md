@@ -1,6 +1,10 @@
 # go-jwt-me
 Proof of concept, jwt decoder endpoint.
 
+### Usage
+
+Edit `main.go` and add the public key of the jwt token issuer.
+
 Build:
 `go build`
 
